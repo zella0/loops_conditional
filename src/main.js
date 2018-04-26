@@ -2,6 +2,7 @@
 // For example: question0([ 5, 20, 11, 42, 2, 19 ]) >> [ 20, 42, 2 ]
 
 function question0 (array) {
+  console.log('test')
   // Write your code here! Make sure not to modify the function
   // declaration above or the `module.exports` code below
 }
